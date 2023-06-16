@@ -1,0 +1,55 @@
+<div class="flex flex-row m-auto space-x-3 justify-between md:p-6 p-4 md:flex md:items-center md:justify-between">
+    <ul class="flex items-center space-x-3 text-sm">
+        <li>
+            <div className='border-2 border-[#8e0000] rounded-full items-center w-8 h-8'>
+            <FaTwitter className='mr-4 md:mr-6 text-[#8e0000]' size={20}/>
+            </div>
+        </li>
+        <li>
+            <RiFacebookFill className='mr-4 md:mr-6 text-[#8e0000]' size={20} />
+        </li>
+        <li>
+            <FiInstagram className='mr-4 md:mr-6 text-[#8e0000]' size={20} />
+        </li>
+        <li>
+            <RiLinkedinFill className='mr-4 md:mr-6 text-[#8e0000]' size={20}/>
+        </li>
+    </ul>
+    </div>
+    <span class="text-md text-gray-600 justify-center items-center">ArchDaily <a href="/">© 2023</a>. <br className='md:hidden' /> All Rights Reserved.
+    </span>
+
+------------------------------------------
+<div>
+                <div>
+                    <h2 class="mb-6 text-lg font-bold text-[#8e0000]">About</h2>
+                    <ul class="text-gray-600 font-medium">
+                    <li class="mb-4">
+                        <a href="/">Company</a>
+                    </li>
+                    <li class="mb-4">
+                        <a href="/">Featured</a>
+                    </li>
+                    <li class="mb-4">
+                        <a href="/">Newsletter</a>
+                    </li>
+                    </ul>
+                </div>
+                <div>
+                    <h2 class="mb-6 text-lg font-bold text-[#8e0000]">Help</h2>
+                    <ul class="text-gray-600 font-medium">
+                        <li class="mb-4">
+                            <a href="/">Contact Us</a>
+                        </li>
+                        <li class="mb-4">
+                            <a href="/">FAQ</a>
+                        </li>
+                        <li class="mb-4">
+                            <a href="/">Terms of Services</a>
+                        </li>
+                        <li class="mb-4">
+                            <a href="/">Customer Service</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
